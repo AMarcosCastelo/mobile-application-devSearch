@@ -39,6 +39,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
+- [BackEnd da Aplicação](https://github.com/AMarcosCastelo/backend-application-devSearch)
+- [FrontEnd em ReactJS da Aplicação](https://github.com/AMarcosCastelo/frontend-application-devSearch)
 
 ## 💻 Projeto
 
